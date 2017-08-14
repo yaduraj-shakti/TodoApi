@@ -1,2 +1,2 @@
 # TodoApi
-Sample Web Api to demonstrate how ASP.NET WEB API can be used to create Rest API.
+Sample to demonstrate how to create Rest APIs using ASP.NET WEB API.
